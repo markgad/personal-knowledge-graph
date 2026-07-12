@@ -35,11 +35,6 @@ Open the link it gives you (usually `http://localhost:5173`).
 2. Search for anything
 3. Click a result to see the full note
 
-## Notes
-
-- If `pip install` fails on numpy, change `numpy==1.26.4` to `numpy>=1.26.4` in `requirements.txt` and try again.
-- First search downloads the embedding model (~90MB), so you need internet once.
-- `.env`, `venv/`, and `node_modules/` are already gitignored — safe to push to GitHub.
 
 ## Later (not built yet)
 
